@@ -17,15 +17,4 @@ FilteredFruitList.defaultProps = {
   filter: null
 }
 
-//   render() {
-//     
-
-//     return (
-//       <ul className="fruit-list">
-//         {list.map((i,idx) => <li key={idx}>{i.char}</li>)}
-//       </ul>
-//     );
-//   }
-// }
-
 export default FilteredFruitList;
